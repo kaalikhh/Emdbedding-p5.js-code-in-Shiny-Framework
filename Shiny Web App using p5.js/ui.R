@@ -10,3 +10,7 @@
 library(shiny)
 library(shinydashboard)
 library(rmarkdown)
+
+shinyUI(
+  fluidRow(
+    # THE UI

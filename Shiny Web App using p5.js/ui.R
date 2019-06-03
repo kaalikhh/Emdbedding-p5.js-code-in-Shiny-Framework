@@ -14,3 +14,9 @@ library(rmarkdown)
 shinyUI(
   fluidRow(
     # THE UI
+    tags$html(
+      tags$body())
+    
+    
+    
+    ))
